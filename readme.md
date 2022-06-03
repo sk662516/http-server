@@ -1,7 +1,7 @@
 # A Simple http server in python
 
->Requirements
-Some python libraries required:
+### Requirements
+>Some python libraries required:
 ```
 pyqrcode
 pypng
